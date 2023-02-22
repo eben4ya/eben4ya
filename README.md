@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/benaya_imanuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benaya_imanuela" height="30" width="40" /></a>
-<a href="https://https://www.linkedin.com/in/benaya-imanuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benaya (eben) imanuela" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/benaya-imanuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benaya (eben) imanuela" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100088920021546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="benaya imanuela" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ebenaya_imanuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebenaya_imanuela" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@benayaimanuela5535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="benayaimanuela5535" height="30" width="40" /></a>
