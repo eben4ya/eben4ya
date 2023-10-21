@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **benayaimanuela2004@mail.ugm.ac.id**
 
-- 📄 Know about my experiences https://bit.ly/CV_Benaya-Imanuela
+- 📄 Know about my experiences https://bit.ly/Benaya_CV
 
 - ⚡ Fun fact **starts coding since entered college**
 
