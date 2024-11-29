@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently work at [Gamaforce UGM](https://gamaforce.wg.ugm.ac.id/) & [Arachnova.id](https://www.arachnova.id/)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development & Data Engineer**
 
 - 📫 How to reach me **benayaimanuela2004@mail.ugm.ac.id**
 
