@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [my personal website](https://eben.biz.id)
 
-- 📄 Know about my experiences https://bit.ly/Benaya_CV
+- 📄 Know about my experiences https://bit.ly/CV_Benaya
 
 - ⚡ Fun fact **starts coding since entered college**
 
